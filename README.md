@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan T Shaji</h1>
-<h3 align="center">Passionate about Technology | Aspiring Fullstack Developer</h3>
+<h3 align="center">Passionate about Technology</h3>
 
 - 📫 How to reach me **roshanshaji00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lqNMfmax1S7pyRTBKMQ1JJJXwMWGdnWc/view?usp=sharing](https://drive.google.com/file/d/1lqNMfmax1S7pyRTBKMQ1JJJXwMWGdnWc/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
